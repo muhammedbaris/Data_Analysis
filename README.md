@@ -33,7 +33,7 @@ The goal is to uncover competitive trends and strategic performance differences 
 - ⚖️ **WBD** holds a stable position, but lacks momentum in both subscriber growth and value creation.
 - 📊 **Apple TV+** shows steady ARPU growth, but still lags behind in scale and long-term user retention.
 
-
+---
 ## 🧭 How to Use
 
 1. Download the `.pbix` file:
@@ -51,7 +51,4 @@ The goal is to uncover competitive trends and strategic performance differences 
 | ![](Visuals/4_ARPU.png) | Average Revenue Per User over time |
 | ![](Visuals/5_Churn.png) | Annual churn rates based on external benchmarks |
 | ![](Visuals/6_CLTV.png) | Customer Lifetime Value comparison by year |
-
-> _(Screenshots folder should be added to your repo alongside this README)_
-
 ---
