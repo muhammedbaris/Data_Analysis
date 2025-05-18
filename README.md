@@ -25,12 +25,17 @@ The goal is to uncover competitive trends and strategic performance differences 
 - **SQL (planned)**: For relational modeling if scaled
 
 ---
+📊 Key Insights
 
-## 📊 Key Insights
+    📈 Netflix consistently leads the market ever since the first appearance of the streaming business.
 
-- 📉 **Amazon Prime's CLTV spiked** in 2021–2024 due to new monetization streams despite stagnant subscriber growth.
-- 📉 **Disney+ saw a decline in subscribers** after 2023, yet maintained strong ARPU due to pricing models.
-- 📈 **Netflix maintained the most stable growth**, lowest churn, and highest subscriber base over the full range.
+    📉 Amazon Prime is catching the leader at a fast pace thanks to their alternative business model.
+
+    📉 Disney+ saw a decline in subscribers after 2023, yet maintained strong ARPU due to pricing models.
+
+    ⚖️ WBD holds a stable position, but lacks momentum in both subscriber growth and value creation.
+
+    🍏 Apple TV+ shows steady ARPU growth, but still lags behind in scale and long-term user retention.
 
 ---
 
