@@ -36,7 +36,7 @@ The goal is to uncover competitive trends and strategic performance differences 
 ---
 ## 🧭 How to Use
 
-1. Download the `.pbix` file:
+1. Download the `Streaming_KPI_Dashboard.pbix` file:
 
 ---
 
