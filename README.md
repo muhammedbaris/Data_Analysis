@@ -6,13 +6,12 @@ A Power BI dashboard project analyzing the performance of five major streaming p
 
 ## 📌 Project Objective
 
-This project benchmarks the business performance of **Netflix, Disney+, Amazon Prime Video, WBD (HBO Max), and Apple TV+** from 2018 to 2024 using six key metrics:
+This project benchmarks the business performance of **Netflix, Disney+, Amazon Prime Video, WBD (HBO Max), and Apple TV+** from 2018 to 2024 using 5 key metrics:
 - Total Revenue
 - Subscriber Count
 - ARPU (Average Revenue per User)
 - Churn Rate
 - Customer Lifetime Value (CLTV)
-- Market-wide and TOP5 aggregates
 
 The goal is to uncover competitive trends and strategic performance differences across the evolving streaming landscape.
 
