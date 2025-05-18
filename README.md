@@ -39,11 +39,12 @@ The goal is to uncover competitive trends and strategic performance differences 
 | Visual | Description |
 |--------|-------------|
 | ![](Visuals/Dashboard.png) | Dashboard introduction and project scope |
-| ![](screenshots/page2_revenue.png) | Revenue by company with TOP5 and TOTAL aggregation |
-| ![](screenshots/page3_subscribers.png) | Subscriber growth trend per platform |
-| ![](screenshots/page4_arpu.png) | Average Revenue Per User over time |
-| ![](screenshots/page5_churn.png) | Annual churn rates based on external benchmarks |
-| ![](screenshots/page6_cltv.png) | Customer Lifetime Value comparison by year |
+| ![](Visuals/1_Total_Revenue_with_TOP5_and_TOTAL.png) | Revenue by company with TOP5 and TOTAL aggregation |
+| ![](Visuals/2_Total_Revenue.png) | Revenue by company aggregation |
+| ![](Visuals/3_Total_Subscribers.png) | Subscriber growth trend per platform |
+| ![](Visuals/4_ARPU.png) | Average Revenue Per User over time |
+| ![](Visuals/5_Churn.png) | Annual churn rates based on external benchmarks |
+| ![](Visuals/6_CLTV.png) | Customer Lifetime Value comparison by year |
 
 > _(Screenshots folder should be added to your repo alongside this README)_
 
