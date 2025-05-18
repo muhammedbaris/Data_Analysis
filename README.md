@@ -38,9 +38,9 @@ The goal is to uncover competitive trends and strategic performance differences 
 
 | Visual | Description |
 |--------|-------------|
-| ![](Visuals/Dashboard.png) | Dashboard introduction and project scope |
-| ![](Visuals/1_Total_Revenue_with_TOP5_and_TOTAL.png) | Revenue by company with TOP5 and TOTAL aggregation |
-| ![](Visuals/2_Total_Revenue.png) | Revenue by company aggregation |
+| ![](Visuals/Dashboard.png) | Dashboard |
+| ![](Visuals/1_Total_Revenue_with_TOP5_and_TOTAL.png) | Revenue by company with TOP5 and TOTAL |
+| ![](Visuals/2_Total_Revenue.png) | Revenue by company  |
 | ![](Visuals/3_Total_Subscribers.png) | Subscriber growth trend per platform |
 | ![](Visuals/4_ARPU.png) | Average Revenue Per User over time |
 | ![](Visuals/5_Churn.png) | Annual churn rates based on external benchmarks |
