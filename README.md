@@ -34,6 +34,9 @@ The goal is to uncover competitive trends and strategic performance differences 
 - 📊 **Apple TV+** shows steady ARPU growth, but still lags behind in scale and long-term user retention.
 
 
+## 🧭 How to Use
+
+1. Download the `.pbix` file:
 
 ---
 
@@ -52,7 +55,3 @@ The goal is to uncover competitive trends and strategic performance differences 
 > _(Screenshots folder should be added to your repo alongside this README)_
 
 ---
-
-## 🧭 How to Use
-
-1. Download the `.pbix` file:
