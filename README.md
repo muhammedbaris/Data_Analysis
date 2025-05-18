@@ -25,17 +25,15 @@ The goal is to uncover competitive trends and strategic performance differences 
 - **SQL (planned)**: For relational modeling if scaled
 
 ---
-📊 Key Insights
+## 📊 Key Insights
 
-    📈 Netflix consistently leads the market ever since the first appearance of the streaming business.
+- 📈 **Netflix** consistently leads the market ever since the first appearance of the streaming business.
+- 📉 **Amazon Prime** is catching the leader at a fast pace thanks to its alternative business model.
+- 📉 **Disney+** saw a decline in subscribers after 2023, yet maintained strong ARPU due to pricing models.
+- ⚖️ **WBD** holds a stable position, but lacks momentum in both subscriber growth and value creation.
+- 📊 **Apple TV+** shows steady ARPU growth, but still lags behind in scale and long-term user retention.
 
-    📉 Amazon Prime is catching the leader at a fast pace thanks to their alternative business model.
 
-    📉 Disney+ saw a decline in subscribers after 2023, yet maintained strong ARPU due to pricing models.
-
-    ⚖️ WBD holds a stable position, but lacks momentum in both subscriber growth and value creation.
-
-    🍏 Apple TV+ shows steady ARPU growth, but still lags behind in scale and long-term user retention.
 
 ---
 
