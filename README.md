@@ -36,7 +36,7 @@ The goal is to uncover competitive trends and strategic performance differences 
 ---
 ## 🧭 How to Use
 
-1. Download the `Streaming_KPI_Dashboard.pbix` file:
+1. Download the `[Streaming_KPI_Dashboard.pbix](https://github.com/muhammedbaris/Data_Analysis/blob/Financial-Performance-Analytics-for-Streaming-Companies/Streaming_KPI_Dashboard.pbix)` file:
 
 ---
 
