@@ -26,6 +26,18 @@ The goal is to uncover competitive trends and strategic performance differences 
   
 ---
 
+## 🧩 Problem Solved
+In an oversaturated streaming market, stakeholders often struggle to make informed, comparative assessments due to inconsistent metrics, fragmented reporting, and rapidly evolving business models. This project addresses that challenge by creating a unified KPI framework that transforms public data into actionable business intelligence.
+By analyzing five major streaming platforms across five key metrics - Revenue, Subscribers, ARPU, Churn, and Customer Lifetime Value - this dashboard empowers strategic decision-makers to:
+
+- Benchmark performance across competitors using standardized financial and user metrics
+- Identify strengths and vulnerabilities in platform strategies (e.g., pricing, retention, growth)
+- Support investment, product, and marketing decisions through historical trends and cross-platform insights
+
+This solution bridges the gap between raw, siloed data and strategic foresight, enabling data-driven decisions in a dynamic digital ecosystem.
+
+---
+
 ## 🛠️ Tools Used
 
 - **Power BI**: Visualization & dashboarding
